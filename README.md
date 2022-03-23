@@ -1,11 +1,9 @@
-<div align="center">
-    ![GitHub contributors](https://img.shields.io/github/contributors/LancelleTimote/Projet-n-1-Transformer-une-maquette-en-site-web-avec-HTML-et-CSS?color=green&style=for-the-badge)
-    ![GitHub language count](https://img.shields.io/github/languages/count/LancelleTimote/Projet-n-1-Transformer-une-maquette-en-site-web-avec-HTML-et-CSS?style=for-the-badge)
-    ![GitHub repo size](https://img.shields.io/github/repo-size/LancelleTimote/Projet-n-1-Transformer-une-maquette-en-site-web-avec-HTML-et-CSS?style=for-the-badge)
-    ![GitHub last commit](https://img.shields.io/github/last-commit/LancelleTimote/Projet-n-1-Transformer-une-maquette-en-site-web-avec-HTML-et-CSS?style=for-the-badge)
-    ![GitHub](https://img.shields.io/github/license/LancelleTimote/Projet-n-1-Transformer-une-maquette-en-site-web-avec-HTML-et-CSS?style=for-the-badge)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timote-lancelle-devweb/)
-</div>
+![GitHub contributors](https://img.shields.io/github/contributors/LancelleTimote/Projet-n-1-Transformer-une-maquette-en-site-web-avec-HTML-et-CSS?color=green&style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/LancelleTimote/Projet-n-1-Transformer-une-maquette-en-site-web-avec-HTML-et-CSS?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/LancelleTimote/Projet-n-1-Transformer-une-maquette-en-site-web-avec-HTML-et-CSS?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/LancelleTimote/Projet-n-1-Transformer-une-maquette-en-site-web-avec-HTML-et-CSS?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/LancelleTimote/Projet-n-1-Transformer-une-maquette-en-site-web-avec-HTML-et-CSS?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timote-lancelle-devweb/)
 
 # Projet n°1 : Transformer une maquette en site web avec HTML et CSS
 
