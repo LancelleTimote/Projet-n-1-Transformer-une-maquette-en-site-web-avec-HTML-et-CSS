@@ -9,7 +9,7 @@
 
 ## :mag: Aperçu
 
-![Aperçu du site web](images/visuel_projet.png)
+![Aperçu du site web](visuel_projet/visuel_projet.png)
 
 ## :bookmark_tabs: Sommaire
 <ol>
