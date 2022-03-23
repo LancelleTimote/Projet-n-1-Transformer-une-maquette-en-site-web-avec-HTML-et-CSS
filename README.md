@@ -33,7 +33,7 @@ Satisfait de la simplicité du processus, vous faites encore quelques recherche
 * Définir la structure du site web à partir d'une maquette.
 * Assurer la conformité du site web aux standards HTML et CSS.
 
-## :checkered_flag: 3. Objectifs du projet <a name = "objectifs_projets"></a>
+## :checkered_flag: 3. Objectifs du projet <a name = "objectifs_projet"></a>
 
 Apprendre à utiliser HTML et CSS tout en respectant les bonnes nomenclatures et pratiques.
 
@@ -61,4 +61,4 @@ Timoté Lancelle : [GitHub](https://github.com/LancelleTimote) / [LinkedIn](http
 
 ## :page_with_curl: 9. Licence <a name = "licence"></a>
 
-Distribué sous la licence MIT. Voir le fichier [LICENCE](LICENCE) pour plus d'informations.
+Distribué sous la licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
