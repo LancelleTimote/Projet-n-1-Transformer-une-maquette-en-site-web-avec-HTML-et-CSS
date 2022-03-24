@@ -27,8 +27,11 @@
 ## :page_facing_up: 1. Sujet <a name = "sujet"></a>
 
 Votre CV n'est pas tout à fait à jour. Avant de rencontrer un client potentiel, vous décidez de créer votre propre site web, sur lequel vous publierez votre CV.
+
 Vous choisissez de développer votre site en HTML et CSS.
+
 Pour éviter de payer un serveur, vous décidez d’héberger votre site sur GitHub Pages. Vous créez donc immédiatement un compte pour tester ce service.
+
 Satisfait de la simplicité du processus, vous faites encore quelques recherches sur les critères d’un bon CV en ligne, et choisissez finalement de créer un modèle.
 
 ## :memo: 2. Demandes à respecter <a name = "demandes_respecter"></a>
