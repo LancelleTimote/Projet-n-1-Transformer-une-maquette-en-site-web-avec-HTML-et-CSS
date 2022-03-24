@@ -51,6 +51,7 @@ Apprendre à utiliser HTML et CSS tout en respectant les bonnes nomenclatures et
 
 * HTML
 * CSS
+* Photoshop
 * Git & GitHub
 
 ## :exclamation: 5. Prérequis <a name = "prerequis"></a>
