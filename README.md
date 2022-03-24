@@ -24,6 +24,7 @@
     <li><a href="#licence">Licence</a></li>
 </ol>
 
+
 ## :page_facing_up: 1. Sujet <a name = "sujet"></a>
 
 Votre CV n'est pas tout à fait à jour. Avant de rencontrer un client potentiel, vous décidez de créer votre propre site web, sur lequel vous publierez votre CV.
@@ -34,6 +35,7 @@ Pour éviter de payer un serveur, vous décidez d’héberger votre site sur 
 
 Satisfait de la simplicité du processus, vous faites encore quelques recherches sur les critères d’un bon CV en ligne, et choisissez finalement de créer un modèle.
 
+
 ## :memo: 2. Demandes à respecter <a name = "demandes_respecter"></a>
 
 * Intégrer du contenu conformément à une maquette.
@@ -43,9 +45,11 @@ Satisfait de la simplicité du processus, vous faites encore quelques recherche
 * Définir la structure du site web à partir d'une maquette.
 * Assurer la conformité du site web aux standards HTML et CSS.
 
+
 ## :checkered_flag: 3. Objectifs du projet <a name = "objectifs_projet"></a>
 
 Apprendre à utiliser HTML et CSS tout en respectant les bonnes nomenclatures et pratiques.
+
 
 ## :computer: 4. Technologies utilisées <a name = "technologies_utilisees"></a>
 
@@ -53,21 +57,26 @@ Apprendre à utiliser HTML et CSS tout en respectant les bonnes nomenclatures et
 * CSS
 * Git & GitHub
 
+
 ## :exclamation: 5. Prérequis <a name = "prerequis"></a>
 
 Aucun
+
 
 ## :wrench: 6. Installation <a name = "installation"></a>
 
 Cloner ce repository.
 
+
 ## :question: 7. Utilisation du site web <a name = "utilisation_siteweb"></a>
 
 Ouvrir le fichier index.html sur un navigateur web.
 
+
 ## :beers: 8. Auteurs et Contributeurs <a name = "auteurs_contributeurs"></a>
 
 Timoté Lancelle : [GitHub](https://github.com/LancelleTimote) / [LinkedIn](https://www.linkedin.com/in/timote-lancelle-devweb/)
+
 
 ## :page_with_curl: 9. Licence <a name = "licence"></a>
 
